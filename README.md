@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @KatyHummes
 - 👀 Full Stack
-- 🌱 Estou aprendendo laravel, vue.js
+- 🌱 Estou aprendendo laravel, Inertia e vue.js
 - 📫 Contact me at email: katielihummes15@gmail.com
 - Linkedin: https://www.linkedin.com/in/katieli-hummes-15224015a/
 
